@@ -219,7 +219,7 @@ export default function Portfolio() {
               Leonard Lai
             </h1>
             <p className="text-xl md:text-2xl text-gray-600 dark:text-gray-300 mb-8">
-              前端工程師 | Java 專家
+              前端工程師 | Java 專家123
             </p>
             <p className="text-lg text-gray-500 dark:text-gray-400 mb-12 max-w-2xl mx-auto">
               專注於企業級應用開發，擁有豐富的系統架構設計和後端開發經驗
